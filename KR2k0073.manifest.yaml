@@ -1,0 +1,62 @@
+canonical_identifier: bkk:krp/KR2k0073/v1
+canonical_location: https://kanripo.org/bkk/KR2k0073/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 崑崙河源考
+  date: '2015-08-24 22:44:09.587979'
+  source:
+    repository: kanripo
+    path: KR2k0073
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR2k0073_000.yaml, hash: 'sha256:55bea51e0e67722f157dddd4c8aea9a932669b79169064c295745dfb2f7b5294'}
+  - {seq: 1, filename: KR2k0073_001.yaml, hash: 'sha256:27e87e498cc98a8c8a686036a0a176dd8462f12f23358e5979bc7b5ab76686d6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2k0073_000.markers.yaml, hash: 'sha256:bde1d214d063d80f673dda9fefb0745c4be6e775ce629d57495a4fa87a1f6f2b'}
+  - {seq: 1, role: markers, filename: assets/KR2k0073_001.markers.yaml, hash: 'sha256:3c9e1c2b0e919257c7ed3fc0e17fcf316c454cb119c2bd7568dde524010daea4'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2k0073_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 471
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2k0073_WYG_000-4a
+    span:
+    - body
+    - 471
+    - 900
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR2k0073_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 16589
+  label: 崑崙河源考
+  type: section
+  level: 1
+hash: sha256:c118f2e5fafe48ebd3a5e075de2a98bb3eab83cb695f6f1036a9dd00e0ea1212
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
