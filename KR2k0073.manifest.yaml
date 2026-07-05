@@ -20,11 +20,11 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR2k0073_000.yaml, hash: 'sha256:55bea51e0e67722f157dddd4c8aea9a932669b79169064c295745dfb2f7b5294'}
-  - {seq: 1, filename: KR2k0073_001.yaml, hash: 'sha256:27e87e498cc98a8c8a686036a0a176dd8462f12f23358e5979bc7b5ab76686d6'}
+  - {seq: 0, filename: KR2k0073_000.yaml, hash: 'sha256:0b418053b762dccd90aed3a246ee7b7b2ed18ddf530cddc3192ea1058081e1bb'}
+  - {seq: 1, filename: KR2k0073_001.yaml, hash: 'sha256:097dcd5b1e5923a832c415e178f47726d44ed07c7b709b314e767ff5002ac152'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0073_000.markers.yaml, hash: 'sha256:bde1d214d063d80f673dda9fefb0745c4be6e775ce629d57495a4fa87a1f6f2b'}
-  - {seq: 1, role: markers, filename: assets/KR2k0073_001.markers.yaml, hash: 'sha256:3c9e1c2b0e919257c7ed3fc0e17fcf316c454cb119c2bd7568dde524010daea4'}
+  - {seq: 0, role: markers, filename: assets/KR2k0073_000.markers.yaml, hash: 'sha256:c5e10f34672ad3c35b6f42156a619da2b2eb558d76df7d0387b407672502f20f'}
+  - {seq: 1, role: markers, filename: assets/KR2k0073_001.markers.yaml, hash: 'sha256:3d13f2a3007099c2e97afc385b96691d40fda7a4bfeab176adff6ebeb3315661'}
 table_of_contents:
 - ref:
     seq: 0
@@ -56,7 +56,4 @@ table_of_contents:
   label: 崑崙河源考
   type: section
   level: 1
-hash: sha256:c118f2e5fafe48ebd3a5e075de2a98bb3eab83cb695f6f1036a9dd00e0ea1212
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:19da509ac14aae6c9106a41ad3b91d5604f44dcef9e0df9e0ecffd7978d3df40
