@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR2k0073_000.yaml, hash: 'sha256:23b949f98f8c2295d978a42df8567b0785f18bacc965a9cc9dab6a85545ae4cc'}
   - {seq: 1, filename: KR2k0073_001.yaml, hash: 'sha256:2cbad84ab1613f94aaee5f7cbeb07fb31cb62007a7c697081e52231d840a3b60'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0073_000.markers.yaml, hash: 'sha256:e76534d2ec09764b94399c8b7ff856e3ef84607554e2fb85cc3a7ee07a69caf3'}
-  - {seq: 1, role: markers, filename: assets/KR2k0073_001.markers.yaml, hash: 'sha256:cebfee107e9e042d08e3fe33a605267b4e24f53c6e89c68c16b08647016cc9ea'}
+  - {seq: 0, role: markers, filename: assets/KR2k0073_000.markers.yaml, hash: 'sha256:7fb85e7f04c6c3a1f6c94703f52d736e766293149e30a8ebbd529ca10678d945'}
+  - {seq: 1, role: markers, filename: assets/KR2k0073_001.markers.yaml, hash: 'sha256:2fbdde6137a11c48149daffac4396e02d953871cc3e2fc4d662ad29a4c434b70'}
 table_of_contents:
 - ref:
     seq: 0
@@ -56,7 +56,7 @@ table_of_contents:
   label: 崑崙河源考
   type: section
   level: 1
-hash: sha256:3e6eb019d37752b189bd02150bdde183f146b98d080f4648ca9e27e61b2a84ca
+hash: sha256:23c893d7de5f9ead5c47a8b85acbf33f4b6d268d809cb6e0178af1059f468e4a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
